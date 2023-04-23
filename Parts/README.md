@@ -1,6 +1,6 @@
 ## Soldered Components
 
-- ### JST Male Headers
+- ### JST-XH 2.54mm Male Headers
     - 3x 3P (Boiler SSR,Brew/Steam Switches,Pressure Transducer)
     - 1x 2P (12V LED)
     - 1x 4P (Display)
