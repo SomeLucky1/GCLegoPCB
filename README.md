@@ -6,9 +6,9 @@ Gaggiuino has two options for assembly, "Lego" or PCB. While a nice case is avai
 <br>
 
 ## Projects
-- ### [LegoPCB CircuitMaker](https://workspace.circuitmaker.com/Projects/Details/somelucky/Gaggiuino-Lego-PCB)
+- ### [CircuitMaker](https://workspace.circuitmaker.com/Projects/Details/somelucky/Gaggiuino-Lego-PCB)
 
-- ### [LegoPCB PCBWay Shared](https://www.pcbway.com/project/shareproject/Gaggiuino_Lego_PCB_872e6bd4.html)
+- ### [PCBWay Shared](https://www.pcbway.com/project/shareproject/Gaggiuino_Lego_PCB_872e6bd4.html)
 
 - ### [Gaggiuino](https://gaggiuino.github.io/#/)
 

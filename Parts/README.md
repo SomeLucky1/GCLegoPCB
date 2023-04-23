@@ -13,7 +13,7 @@
     - 1x 5P (MAX6675)
     - 1x 4P (Dimmer)
 - ### Screw Terminals
-    - 1x 3P 5mm pitch - Bundled with most FR120N boards
+    - 1x 3P 5mm pitch - Bundled with most FR120N preassembled boards
     - (optional) 4x 10P 2.54mm pitch
 - ### Power/3WV/Pump Connections
     - 4x Male blade quick connect terminals
