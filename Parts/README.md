@@ -33,7 +33,7 @@ Part|Mod
 ![Dimmer](/Parts/Images/DIMMER.JPG "Dimmer")|No modifications required
 ![12V PSU](/Parts/Images/12VPSU.JPG "12V PSU")|Use 15mm male pin headers
 ![5V PSU](/Parts/Images/5VPSU.JPG "5V PSU")|Use 11.5mm male pin headers
-![MAX6675](/Parts/Images/MAX6675.JPG "MAX6675")|Straighten pins (optional) Use PCB mountable female K-type plug
+![MAX6675](/Parts/Images/MAX6675.JPG "MAX6675")|Straighten pins (optional)<br>Use PCB mountable female K-type plug
 ![TCM4](/Parts/Images/TCM4.JPG "TC Sensor - M4")|(optional) Use male K-type plug
 ![ADS1115](/Parts/Images/ADS1115.JPG "ADS1115")|Use 11.5mm male pin headers
-![FR120N](/Parts/Images/FR120N.JPG "FR120N")|Use 11.5mm male pin headers Bend 12V/Load pins to 2.54mm pitch width
+![FR120N](/Parts/Images/FR120N.JPG "FR120N")| Use 11.5mm male pin headers<br>Bend 12V/Load pins to 2.54mm pitch width
