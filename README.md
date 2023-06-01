@@ -1,6 +1,6 @@
 # Gaggiuino LegoPCB
 
-### <b>Comming Soon</b> 
+### <b>Coming Soon</b> 
 
 [QWIIC (I<sup><font size="1">2</font></sup>C) connector with 3.3V regulation](/PCB/README.md#commingsoon)
 

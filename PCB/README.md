@@ -4,8 +4,9 @@ Top|Bottom
 :---:|:---:
 ![PCB Front](/PCB/Images/LegoPCB3D-Front.png)|![PCB Back](/PCB/Images/LegoPCB3D-Back.png)
 
-<a name="commingsoon">
-### <b>Comming Soon</b> 
+<a name="comingsoon">
+
+### <b>Coming Soon</b> 
 
 QWIIC connector with 3.3V regulation.
 
