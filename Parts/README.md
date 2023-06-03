@@ -5,11 +5,15 @@
     - 1x 2P (12V LED)
     - 1x 4P (Display)
     - 1x 5P (Scales)
+    
+    <br>
 - ### Male Pin Headers
     - 20x 11.5mm
     - 4x 15mm
     #### *Coming soon* - Qwiic Connector
     - *1x Double row 2x2 right angel 3mm to board - 6mm to header*
+
+    <br>
 - ### Female Pin Headers
     - 6x 2P (5V PSU,12V PSU,FR120N)
     - 2x 20P (Blackpill)
@@ -19,20 +23,28 @@
     - 1x 4P (Dimmer)
      #### *Coming soon* - Qwiic Connector
     - *2x 2P or 1x 4p (2x2)*
+
+    <br>
 - ### Screw Terminals
     - 1x 3P 5mm pitch - Bundled with most FR120N preassembled boards
     - (optional) 4x 10P 2.54mm pitch
+
+    <br>
 - ### Power/3WV/Pump Connections
     - 4x Male blade quick connect terminals
     - (optional) Molex 4P Mini Fit Jr. 90 degree mount -- for use with Molex design PCB
+
+    <br>
 - ### Resistors ¼W
     - 1x 1kΩ - for use with hardware scales
     - (optional) 1x 330Ω - If 3WV SSR requires
+
+    <br>
 - ### 3-Way Solenoid Valve SSR (choose one)
     - Omron G3MB-202P - No input resistor requried (short R1 Bypass solder pad)
     - Panasonic AQG12105 - Input resistor required
 
-<br>
+    <br>
 
 ## Lego Part Modifications
 Part|Mod
