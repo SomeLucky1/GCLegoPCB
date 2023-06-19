@@ -8,7 +8,7 @@ Top|Bottom
 
 ### <b>Coming Soon</b> 
 
-QWIIC connector with 3.3V regulation.
+QWIIC connector with I²C 3.3V regulation.
 
 ![QWIIC Module](/PCB/Images/QWIIC_Shim_Module.png)
 </a>
