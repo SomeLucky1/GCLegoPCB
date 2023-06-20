@@ -38,7 +38,7 @@
 
     <br>
 - ### 3-Way Solenoid Valve SSR (choose one)
-    - Omron G3MB-202P - No input resistor requried (short R1 Bypass solder pad)
+    - Omron G3MB-202P 5V - No input resistor requried (short R1 Bypass solder pad)
     - Panasonic AQG12105 - Input resistor required
 
     <br>
