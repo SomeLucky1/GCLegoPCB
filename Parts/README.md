@@ -8,21 +8,18 @@
     
     <br>
 - ### Male Pin Headers
-    - 20x 11.5mm
+    - 28x 11.5mm
     - 4x 15mm
-    #### *Coming soon* - Qwiic Connector
-    - *1x Double row 2x2 right angel 3mm to board - 6mm to header*
+    - (optional) 1x 2x2 right angle 3mm/6mm board/header
 
     <br>
 - ### Female Pin Headers
-    - 6x 2P (5V PSU,12V PSU,FR120N)
+    - 8x 2P (5V PSU,12V PSU,FR120N, QWIIC Shim)
     - 2x 20P (Blackpill)
     - 2x 3P (12V PSU,FR120N)
     - 1x 7P (ADS1115)
     - 1x 5P (MAX6675)
-    - 1x 4P (Dimmer)
-     #### *Coming soon* - Qwiic Connector
-    - *2x 2P or 1x 4p (2x2)*
+    - 3x 4P (Dimmer, I²C Shifter)
 
     <br>
 - ### Screw Terminals
@@ -32,7 +29,7 @@
     <br>
 - ### Power/3WV/Pump Connections
     - 4x Male blade quick connect terminals
-    - (optional) Molex 4P Mini Fit Jr. 90 degree mount -- for use with Molex design PCB
+    - (optional) Molex 4P Mini Fit Jr. 90 degree mount -- for use with Molex Power design PCB
 
     <br>
 - ### Resistors ¼W
@@ -47,13 +44,13 @@
     <br>
 
 ## Lego Part Modifications
-Part|Mod
----|---
-![Dimmer](/Parts/Images/DIMMER.JPG "Dimmer")|No modifications required
-![12V PSU](/Parts/Images/12VPSU.JPG "12V PSU")|Use 15mm male pin headers
-![5V PSU](/Parts/Images/5VPSU.JPG "5V PSU")|Use 11.5mm male pin headers
-![MAX6675](/Parts/Images/MAX6675.JPG "MAX6675")|Straighten pins<br><br>(optional) Use PCB mountable female mini K-type plug
-![TCM4](/Parts/Images/TCM4.JPG "TC Sensor - M4")|(optional) Use male mini K-type plug
-![ADS1115](/Parts/Images/ADS1115.JPG "ADS1115")|Use 11.5mm male pin headers
-![FR120N](/Parts/Images/FR120N.JPG "FR120N")| Use 11.5mm male pin headers<br><br>Bend 12V/Load pins to 2.54mm pitch width
-![QWIIC SHIM](/Parts/Images/QWIIC_Shim_Module2.png "QWIIC SHIM")|*Coming Soon*  Qwiic connector with 3.3V regulation.
+Part|3D|Mod
+---|---|---
+![Dimmer](/Parts/Images/DIMMER.JPG "Dimmer")|[Dimmer3D](/Parts/Images/STL/RDDimmer.stl "Dimmer 3D")|No modifications required
+![12V PSU](/Parts/Images/12VPSU.JPG "12V PSU")||Use 15mm male pin headers
+![5V PSU](/Parts/Images/5VPSU.JPG "5V PSU")||Use 11.5mm male pin headers
+![MAX6675](/Parts/Images/MAX6675.JPG "MAX6675")||Straighten pins<br><br>(optional) Use PCB mountable female mini K-type plug
+![TCM4](/Parts/Images/TCM4.JPG "TC Sensor - M4")||(optional) Use male mini K-type plug
+![ADS1115](/Parts/Images/ADS1115.JPG "ADS1115")||Use 11.5mm male pin headers
+![FR120N](/Parts/Images/FR120N.JPG "FR120N")||Use 11.5mm male pin headers<br><br>Bend 12V/Load pins to 2.54mm pitch width
+![QWIIC SHIM](/Parts/Images/QWIIC_Shim_Module2.png "QWIIC SHIM")||  Qwiic connector and I²C 3.3V regulation module.
