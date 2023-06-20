@@ -49,7 +49,7 @@ Part|3D Model|Mod
 ![Dimmer](/Parts/Images/DIMMER.JPG "Dimmer")|[STL](/Parts/Images/STL/RDDimmer.stl "Dimmer") <br> [STEP](/Parts/Images/STEP/RDDimmer.step "Dimmer")|No modifications required
 ![12V PSU](/Parts/Images/12VPSU.JPG "12V PSU")|[STL](/Parts/Images/STL/12V1APSU.stl "12VPSU") <br> [STEP](/Parts/Images/STEP/12V1APSU.step "12VPSU")|Use 15mm male pin headers
 ![5V PSU](/Parts/Images/5VPSU.JPG "5V PSU")|[STL](/Parts/Images/STL/SY8205.stl "5VPSU") <br> [STEP](/Parts/Images/STEP/SY8205.step "5VPSU")|Use 11.5mm male pin headers
-![MAX6675](/Parts/Images/MAX6675.JPG "MAX6675")|[STL](/Parts/Images/STL/MAX6675.stl) [STL](/Parts/Images/STL/KPlugPCBMount.stl "KPLUG")<br> [STEP](/Parts/Images/STEP/MAX6675BB.step) [STEP](/Parts/Images/STEP/KPlugPCBMount.step "KPLUG")|Straighten pins<br><br>(optional) Use PCB mountable female mini K-type plug
+![MAX6675](/Parts/Images/MAX6675.JPG "MAX6675")|[STL](/Parts/Images/STL/MAX6675.stl "MAX6675") [STL](/Parts/Images/STL/KPlugPCBMount.stl "KPLUG")<br> [STEP](/Parts/Images/STEP/MAX6675BB.step "MAX6675") [STEP](/Parts/Images/STEP/KPlugPCBMount.step "KPLUG")|Straighten pins<br><br>(optional) Use PCB mountable female mini K-type plug
 ![TCM4](/Parts/Images/TCM4.JPG "TC Sensor - M4")||(optional) Use male mini K-type plug
 ![ADS1115](/Parts/Images/ADS1115.JPG "ADS1115")|[STL](/Parts/Images/STL/ADS1115.stl "ADS1115") <br> [STEP](/Parts/Images/STEP/ADS1115BB.step "ADS1115")|Use 11.5mm male pin headers
 ![FR120N](/Parts/Images/FR120N.JPG "FR120N")|[STL](/Parts/Images/STL/MosfetBoard.stl "FR120N") <br> [STEP](/Parts/Images/STEP/MosfetBoard.step "FR120N")|Use 11.5mm male pin headers<br><br>Bend 12V/Load pins to 2.54mm pitch width
