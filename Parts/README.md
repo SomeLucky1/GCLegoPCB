@@ -44,13 +44,13 @@
     <br>
 
 ## Lego Part Modifications
-Part|3D|Mod
+Part|3D Model|Mod
 ---|---|---
-![Dimmer](/Parts/Images/DIMMER.JPG "Dimmer")|[Dimmer3D](/Parts/Images/STL/RDDimmer.stl "Dimmer 3D")|No modifications required
-![12V PSU](/Parts/Images/12VPSU.JPG "12V PSU")||Use 15mm male pin headers
-![5V PSU](/Parts/Images/5VPSU.JPG "5V PSU")||Use 11.5mm male pin headers
-![MAX6675](/Parts/Images/MAX6675.JPG "MAX6675")||Straighten pins<br><br>(optional) Use PCB mountable female mini K-type plug
+![Dimmer](/Parts/Images/DIMMER.JPG "Dimmer")|[Dimmer](/Parts/Images/STL/RDDimmer.stl "Dimmer3D")|No modifications required
+![12V PSU](/Parts/Images/12VPSU.JPG "12V PSU")|[12VPSU](/Parts/Images/STL/12V1APSU.stl "12VPSU")|Use 15mm male pin headers
+![5V PSU](/Parts/Images/5VPSU.JPG "5V PSU")|[5VPSU](/Parts/Images/STL/SY8205.stl "5VPSU")|Use 11.5mm male pin headers
+![MAX6675](/Parts/Images/MAX6675.JPG "MAX6675")|[MAX6675](/Parts/Images/STL/MAX6675.stl)|Straighten pins<br><br>(optional) Use PCB mountable female mini K-type plug
 ![TCM4](/Parts/Images/TCM4.JPG "TC Sensor - M4")||(optional) Use male mini K-type plug
-![ADS1115](/Parts/Images/ADS1115.JPG "ADS1115")||Use 11.5mm male pin headers
-![FR120N](/Parts/Images/FR120N.JPG "FR120N")||Use 11.5mm male pin headers<br><br>Bend 12V/Load pins to 2.54mm pitch width
-![QWIIC SHIM](/Parts/Images/QWIIC_Shim_Module2.png "QWIIC SHIM")||  Qwiic connector and I²C 3.3V regulation module.
+![ADS1115](/Parts/Images/ADS1115.JPG "ADS1115")|[ADS1115](/Parts/Images/STL/ADS1115.stl "ADS1115")|Use 11.5mm male pin headers
+![FR120N](/Parts/Images/FR120N.JPG "FR120N")|[FR120N](/Parts/Images/STL/MosfetBoard.stl "FR120N")|Use 11.5mm male pin headers<br><br>Bend 12V/Load pins to 2.54mm pitch width
+![QWIIC SHIM](/Parts/Images/QWIIC_Shim_Module2.png "QWIIC SHIM")|[QWIIC](/Parts/Images/STL/LevelConverter.stl "QWIIC")|  Qwiic connector and I²C 3.3V regulation module.
