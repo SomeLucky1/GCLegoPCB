@@ -14,7 +14,7 @@ Gaggiuino has two options for assembly, "Lego" and PCB. While a nice case is ava
 <br>
 
 ## Projects
-- ### [CircuitMaker](https://workspace.circuitmaker.com/Projects/Details/somelucky/Gaggiuino-Lego-PCB)
+- ### [CircuitMaker](https://workspace.circuitmaker.com/Projects/Details/somelucky/Gaggiuino-Lego-PCB-QWIIC)
 
 - ### [PCBWay](https://www.pcbway.com/project/shareproject/Gaggiuino_Lego_PCB_872e6bd4.html)
 
